@@ -1,0 +1,5 @@
+- si la intención son mudanzas y traslados asigna la etiqueta 'mudanzas y traslados'
+- Si la intención es informar  o notificar un pago asigna la etiqueta 'Informa pago'
+- Si se solicita de manera explicita una suspensión del servicio asigna la etiqueta 'Solicita suspension'
+- Si solicita soporte técnico por averías o fallas asigna la etiqueta 'asistencia tecnica'
+- Si desea contratar o solicitar el servicio asigna la etiqueta 'contratar servicio'
