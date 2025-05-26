@@ -58,8 +58,7 @@ Brindamos conectividad de internet en distintas ciudades de la Argentina, llevan
 #### Buenos Aires fibra óptica
 
 - Marítimo
-- Altos de Hudson
-- Hudson 1
+- Altos de Hudson 1 y 2
 
 ## Horarios de Atención
 
@@ -68,7 +67,9 @@ Brindamos conectividad de internet en distintas ciudades de la Argentina, llevan
 
 ### Misiones
 
-- Atención presencia al Público en Oficinas
+- Atención presencia al Público en Oficinas:
+  - En Campo Grande, Pioneros 80 frente a EMSA.
+  - En Salto Encantado, colectora RN14, calle Ruiz DE Montoya, primer piso, debajo de FM Salto Encantado
 - Días: Lunes a Viernes - Horarios: 08:00 a 12:00 y 15:00 a 19:00 (GMT-3)
 
 ### Buenos Aires horarios
@@ -180,6 +181,8 @@ solo aplica compartir con google maps
 5. Selecciona el tiempo para compartir tu ubicación
 6. Toca "Compartir"
 
+- *Google Maps*, le dejo un breve tutorial de como compartir correctamente su ubicación aunque no se encuentre en su domicilio: [youtube](1KzhRGQpJyU)
+
 #### Instrucciones para como Llegar con Google Maps
 
 1. Abre Google Maps en tu computadora o smartphone
@@ -188,7 +191,7 @@ solo aplica compartir con google maps
 4. Busca donde dice "Compartir Ubicación"
 5. Haz clic en "Enviar al teléfono" y selecciona el nuestro
 6. NO compartir "ubicación en tiempo real" porque desde la PC no lo podemos ver
-7. Si no lo lograste, aquí tienes un breve tutorial de 1 minuto de como hacerlo. (https://.www.youtu.be/1KzhRGQpJyU)
+7. Si no lo lograste, aquí tienes un breve tutorial de 1 minuto de como hacerlo. (<https://www.youtube/1KzhRGQpJyU>)
 
 ## App de IQNet Internet para descargar
 
