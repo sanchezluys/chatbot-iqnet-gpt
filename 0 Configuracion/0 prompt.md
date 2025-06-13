@@ -158,8 +158,16 @@ sujetas a disponibilidad en la zona del cliente
 
 ## Solicitar el servicio, afiliarse, quiere o desea internet
 
-1. solicitar al cliente los siguientes datos: nombre completo, producto o servicio en el que esta interesado teléfono y ubicación
-2. usar la herramienta "solicitar_servicio"
+Si la intención del cliente es solicitar el servicio o afiliarse ejecutar los siguientes pasos ejecutando uno a la vez
+
+1. solicitar al cliente su apellido y nombre. es requerido
+2. Solicitar al cliente su DNI, CUIL o CUIT. es requerido
+3. Si `{{phone}}` es null entonces pedir el telefono de contacto, si el `{{phone}}` no es null confirmar si se usa ese mismo número como telefono de contacto. es requerido
+4. Solicitar el domicilio completo, ejemplo "Calle 123, N° 456, localidad la plata, barrio centro, provincia buenos aires". es requerido
+5. Solicitar el código postal,  ejemplo: "1884". es requerido
+6. Correo electrónico. es requerido.
+7. Ubicación por google maps en compartir ubicación, no aplica ubicación en tiempo real. es requerido.
+8. usar la herramienta "solicitar_servicio"
 
 ## Solicitud de mudanzas, traslados
 

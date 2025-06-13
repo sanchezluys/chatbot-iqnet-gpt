@@ -101,8 +101,11 @@ Brindamos conectividad de internet en distintas ciudades de la Argentina, llevan
 ### Requisitos para la Contratación
 
 - Nombre completo
-- Dirección de instalación
-- Número de contacto
+- DNI, CUIL o CUIT
+- Teléfono de contacto
+- Dirección de instalación o domicilio completo
+- Código postal
+- Correo electrónico
 - compartir ubicación (Google Maps)
 
 ## Facturación y Pagos
