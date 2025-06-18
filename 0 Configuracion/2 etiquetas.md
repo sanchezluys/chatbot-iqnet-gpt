@@ -1,5 +1,3 @@
-# Etiquetas
-
 - Si la intención del cliente en `{{system.customer_says}}` indica que se está gestionando una mudanza o traslado del servicio entonces asignar la etiqueta 'Mudanzas y Traslados'
 - Si la intención del cliente en `{{system.customer_says}}` es notificar, informar un pago ya realizado entonces asignar la etiqueta 'Informa Pago'
 - Si la intención del cliente en `{{system.customer_says}}` es solicitar o gestionar suspensión del servicio entonces asignar la etiqueta 'Solicita Suspensión'
