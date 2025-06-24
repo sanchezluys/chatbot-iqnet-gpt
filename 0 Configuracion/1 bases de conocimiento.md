@@ -160,10 +160,6 @@ Brindamos conectividad de internet en distintas ciudades de la Argentina, llevan
 
 Disponible a través del portal de clientes
 
-### Suspensión Temporal
-
-- Servicio disponible bajo solicitud
-
 ### Documentación
 
 - FACTURAS: Descargables desde el portal
