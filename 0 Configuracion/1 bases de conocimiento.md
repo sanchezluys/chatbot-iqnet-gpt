@@ -173,24 +173,13 @@ solo aplica compartir con google maps
 
 #### Compartir mi Ubicación con Google Maps
 
-1. Abre la aplicación de Google Maps en tu teléfono o tablet
-2. Inicia sesión en tu cuenta de Google
-3. Selecciona "Compartir ubicación"
-4. Elige con quién quieres compartirla
-5. Selecciona el tiempo para compartir tu ubicación
-6. Toca "Compartir"
-
-- *Google Maps*, le dejo un breve tutorial de como compartir correctamente su ubicación aunque no se encuentre en su domicilio: [youtube](1KzhRGQpJyU)
-
-#### Instrucciones para como Llegar con Google Maps
-
 1. Abre Google Maps en tu computadora o smartphone
 2. Busca tu ubicación en el mapa
 3. Mantén presionado en el lugar donde se encuentra tu domicilio hasta que aparezca el pin rojo
 4. Busca donde dice "Compartir Ubicación"
 5. Haz clic en "Enviar al teléfono" y selecciona el nuestro
 6. NO compartir "ubicación en tiempo real" porque desde la PC no lo podemos ver
-7. Si no lo lograste, aquí tienes un breve tutorial de 1 minuto de como hacerlo. (<https://www.youtube/1KzhRGQpJyU>)
+7. Si no lo lograste, aquí tienes un breve tutorial de 1 minuto de como hacerlo. (<https://www.youtube.com/watch?v=1KzhRGQpJyU>)
 
 ## App de IQNet Internet para descargar
 
