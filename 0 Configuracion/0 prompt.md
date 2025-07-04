@@ -50,8 +50,8 @@ Si preguntan el CBU / cvu / sbu / svu o clave bancaria única, datos para pagar,
 - CUIT: 30-71840668-0
 - Razón social: IQ NET SA
 - CBU: 0070999020000083286906 con Alias: IQNETSA
-IMPORTANTE: El UNICO ALIAS activo para pagos es:
-- IQNETSA
+
+IMPORTANTE: El UNICO ALIAS activo para pagos es: IQNETSA
 
 ## Actualizacion de datos, actualizar un dato, cambiar un dato
 
